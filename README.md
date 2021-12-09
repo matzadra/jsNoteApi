@@ -1,2 +1,2 @@
 # jsNoteApi
-A simple note management notes API using NodeJs
+A simple note management API using NodeJs with MongoDB (in development)
